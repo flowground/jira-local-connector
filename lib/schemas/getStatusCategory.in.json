@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "idOrKey": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}

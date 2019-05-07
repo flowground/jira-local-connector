@@ -1,0 +1,24 @@
+{
+    "type": "object",
+    "properties": {
+        "issueId": {
+            "required": false,
+            "type": "string"
+        },
+        "indexComments": {
+            "required": false,
+            "type": "boolean",
+            "default": false
+        },
+        "indexChangeHistory": {
+            "required": false,
+            "type": "boolean",
+            "default": false
+        },
+        "indexWorklogs": {
+            "required": false,
+            "type": "boolean",
+            "default": false
+        }
+    }
+}

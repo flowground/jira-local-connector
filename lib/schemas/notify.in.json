@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "issueIdOrKey": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}

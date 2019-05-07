@@ -1,0 +1,21 @@
+{
+    "type": "object",
+    "properties": {
+        "fieldName": {
+            "required": false,
+            "type": "string"
+        },
+        "fieldValue": {
+            "required": false,
+            "type": "string"
+        },
+        "predicateName": {
+            "required": false,
+            "type": "string"
+        },
+        "predicateValue": {
+            "required": false,
+            "type": "string"
+        }
+    }
+}

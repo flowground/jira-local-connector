@@ -1,0 +1,32 @@
+{
+    "type": "object",
+    "properties": {
+        "jql": {
+            "required": false,
+            "type": "string"
+        },
+        "startAt": {
+            "required": false,
+            "type": "integer",
+            "format": "int32"
+        },
+        "maxResults": {
+            "required": false,
+            "type": "integer",
+            "format": "int32"
+        },
+        "validateQuery": {
+            "required": false,
+            "type": "boolean",
+            "default": true
+        },
+        "fields": {
+            "required": false,
+            "type": "string"
+        },
+        "expand": {
+            "required": false,
+            "type": "string"
+        }
+    }
+}

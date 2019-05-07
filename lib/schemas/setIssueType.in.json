@@ -1,0 +1,14 @@
+{
+    "type": "object",
+    "properties": {
+        "issueType": {
+            "required": true,
+            "type": "string"
+        },
+        "id": {
+            "required": true,
+            "type": "integer",
+            "format": "int64"
+        }
+    }
+}

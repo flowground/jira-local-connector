@@ -1,0 +1,14 @@
+{
+    "type": "object",
+    "properties": {
+        "updateDraftIfNeeded": {
+            "required": false,
+            "type": "boolean"
+        },
+        "id": {
+            "required": true,
+            "type": "integer",
+            "format": "int64"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "type": "object",
+    "properties": {
+        "projectKey": {
+            "required": false,
+            "type": "string"
+        },
+        "tabId": {
+            "required": true,
+            "type": "integer",
+            "format": "int64"
+        }
+    }
+}

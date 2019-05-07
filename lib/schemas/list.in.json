@@ -1,0 +1,19 @@
+{
+    "type": "object",
+    "properties": {
+        "filter": {
+            "required": false,
+            "type": "string"
+        },
+        "startAt": {
+            "required": false,
+            "type": "integer",
+            "format": "int32"
+        },
+        "maxResults": {
+            "required": false,
+            "type": "integer",
+            "format": "int32"
+        }
+    }
+}

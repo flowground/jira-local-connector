@@ -1,0 +1,23 @@
+{
+    "type": "object",
+    "properties": {
+        "startAt": {
+            "required": false,
+            "type": "integer",
+            "format": "int64"
+        },
+        "maxResults": {
+            "required": false,
+            "type": "integer",
+            "format": "int32"
+        },
+        "orderBy": {
+            "required": false,
+            "type": "string"
+        },
+        "expand": {
+            "required": false,
+            "type": "string"
+        }
+    }
+}

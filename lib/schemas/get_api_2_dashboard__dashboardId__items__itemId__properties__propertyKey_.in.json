@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "properties": {
+        "itemId": {
+            "required": true,
+            "type": "string"
+        },
+        "dashboardId": {
+            "required": true,
+            "type": "string"
+        },
+        "propertyKey": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "type": "object",
+    "properties": {
+        "issueTypeId": {
+            "required": true,
+            "type": "string"
+        },
+        "propertyKey": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}

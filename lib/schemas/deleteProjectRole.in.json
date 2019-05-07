@@ -1,0 +1,10 @@
+{
+    "type": "object",
+    "properties": {
+        "swap": {
+            "required": false,
+            "type": "integer",
+            "format": "int64"
+        }
+    }
+}

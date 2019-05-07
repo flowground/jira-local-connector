@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "transitionId": {
+            "required": false,
+            "type": "string"
+        }
+    }
+}

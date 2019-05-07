@@ -1,0 +1,13 @@
+{
+    "type": "object",
+    "properties": {
+        "moveFixIssuesTo": {
+            "required": false,
+            "type": "string"
+        },
+        "moveAffectedIssuesTo": {
+            "required": false,
+            "type": "string"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "type": "object",
+    "properties": {
+        "moveIssuesTo": {
+            "required": true,
+            "type": "string"
+        },
+        "id": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}

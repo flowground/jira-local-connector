@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "If_Match": {
+            "required": false,
+            "type": "string"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "type": "object",
+    "properties": {
+        "query": {
+            "required": false,
+            "type": "string"
+        },
+        "maxResults": {
+            "required": false,
+            "type": "integer",
+            "format": "int32"
+        },
+        "showAvatar": {
+            "required": false,
+            "type": "boolean"
+        },
+        "fieldId": {
+            "required": false,
+            "type": "string"
+        },
+        "projectId": {
+            "required": false,
+            "type": "string"
+        },
+        "issueTypeId": {
+            "required": false,
+            "type": "string"
+        }
+    }
+}

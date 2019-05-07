@@ -1,0 +1,10 @@
+{
+    "type": "object",
+    "properties": {
+        "screenId": {
+            "required": true,
+            "type": "integer",
+            "format": "int64"
+        }
+    }
+}

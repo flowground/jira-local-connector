@@ -1,0 +1,21 @@
+{
+    "type": "object",
+    "properties": {
+        "projectKey": {
+            "required": false,
+            "type": "string"
+        },
+        "projectId": {
+            "required": false,
+            "type": "string"
+        },
+        "issueKey": {
+            "required": false,
+            "type": "string"
+        },
+        "issueId": {
+            "required": false,
+            "type": "string"
+        }
+    }
+}

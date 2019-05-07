@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "properties": {
+        "key": {
+            "required": false,
+            "type": "string"
+        },
+        "permissionLevel": {
+            "required": false,
+            "type": "string"
+        },
+        "keyFilter": {
+            "required": false,
+            "type": "string"
+        }
+    }
+}

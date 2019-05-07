@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "workflowName": {
+            "required": false,
+            "type": "string"
+        }
+    }
+}

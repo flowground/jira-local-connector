@@ -1,0 +1,35 @@
+{
+    "type": "object",
+    "properties": {
+        "offset": {
+            "required": false,
+            "type": "integer",
+            "format": "int32"
+        },
+        "limit": {
+            "required": false,
+            "type": "integer",
+            "format": "int32"
+        },
+        "filter": {
+            "required": false,
+            "type": "string"
+        },
+        "from": {
+            "required": false,
+            "type": "string"
+        },
+        "to": {
+            "required": false,
+            "type": "string"
+        },
+        "projectIds": {
+            "required": false,
+            "type": "string"
+        },
+        "userIds": {
+            "required": false,
+            "type": "string"
+        }
+    }
+}

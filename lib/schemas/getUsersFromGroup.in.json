@@ -1,0 +1,26 @@
+{
+    "type": "object",
+    "properties": {
+        "groupname": {
+            "required": false,
+            "type": "string"
+        },
+        "includeInactiveUsers": {
+            "required": false,
+            "type": "boolean",
+            "default": false
+        },
+        "startAt": {
+            "required": false,
+            "type": "integer",
+            "format": "int64",
+            "default": 0
+        },
+        "maxResults": {
+            "required": false,
+            "type": "integer",
+            "format": "int32",
+            "default": 50
+        }
+    }
+}

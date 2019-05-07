@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "doHealthCheck": {
+            "required": false,
+            "type": "boolean"
+        }
+    }
+}

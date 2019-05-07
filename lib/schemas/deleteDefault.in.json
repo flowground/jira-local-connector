@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "updateDraftIfNeeded": {
+            "required": false,
+            "type": "boolean"
+        }
+    }
+}

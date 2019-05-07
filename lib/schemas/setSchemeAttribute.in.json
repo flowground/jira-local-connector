@@ -1,0 +1,14 @@
+{
+    "type": "object",
+    "properties": {
+        "permissionSchemeId": {
+            "required": true,
+            "type": "integer",
+            "format": "int64"
+        },
+        "key": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}

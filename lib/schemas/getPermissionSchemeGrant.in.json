@@ -1,0 +1,14 @@
+{
+    "type": "object",
+    "properties": {
+        "expand": {
+            "required": false,
+            "type": "string"
+        },
+        "schemeId": {
+            "required": true,
+            "type": "integer",
+            "format": "int64"
+        }
+    }
+}

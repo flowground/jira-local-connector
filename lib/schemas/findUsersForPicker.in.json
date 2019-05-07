@@ -1,0 +1,22 @@
+{
+    "type": "object",
+    "properties": {
+        "query": {
+            "required": false,
+            "type": "string"
+        },
+        "maxResults": {
+            "required": false,
+            "type": "integer",
+            "format": "int32"
+        },
+        "showAvatar": {
+            "required": false,
+            "type": "boolean"
+        },
+        "exclude": {
+            "required": false,
+            "type": "string"
+        }
+    }
+}

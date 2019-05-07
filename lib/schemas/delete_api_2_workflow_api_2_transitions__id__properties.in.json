@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "properties": {
+        "key": {
+            "required": false,
+            "type": "string"
+        },
+        "workflowName": {
+            "required": false,
+            "type": "string"
+        },
+        "workflowMode": {
+            "required": false,
+            "type": "string"
+        }
+    }
+}

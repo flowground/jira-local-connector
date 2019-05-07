@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "properties": {
+        "fields": {
+            "required": false,
+            "type": "string"
+        },
+        "expand": {
+            "required": false,
+            "type": "string"
+        },
+        "properties": {
+            "required": false,
+            "type": "string"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "properties": {
+        "adjustEstimate": {
+            "required": false,
+            "type": "string"
+        },
+        "newEstimate": {
+            "required": false,
+            "type": "string"
+        },
+        "reduceBy": {
+            "required": false,
+            "type": "string"
+        }
+    }
+}

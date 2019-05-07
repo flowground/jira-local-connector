@@ -1,0 +1,14 @@
+{
+    "type": "object",
+    "properties": {
+        "filename": {
+            "required": false,
+            "type": "string"
+        },
+        "size": {
+            "required": false,
+            "type": "integer",
+            "format": "int64"
+        }
+    }
+}

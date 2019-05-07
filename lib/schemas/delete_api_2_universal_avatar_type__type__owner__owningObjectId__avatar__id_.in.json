@@ -1,0 +1,18 @@
+{
+    "type": "object",
+    "properties": {
+        "id": {
+            "required": true,
+            "type": "integer",
+            "format": "int64"
+        },
+        "type": {
+            "required": true,
+            "type": "string"
+        },
+        "owningObjectId": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}

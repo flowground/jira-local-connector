@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "globalId": {
+            "required": false,
+            "type": "string"
+        }
+    }
+}

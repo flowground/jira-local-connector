@@ -1,0 +1,14 @@
+{
+    "type": "object",
+    "properties": {
+        "expand": {
+            "required": false,
+            "type": "string"
+        },
+        "recent": {
+            "required": false,
+            "type": "integer",
+            "format": "int32"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "type": "object",
+    "properties": {
+        "versionId": {
+            "required": true,
+            "type": "string"
+        },
+        "globalId": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}

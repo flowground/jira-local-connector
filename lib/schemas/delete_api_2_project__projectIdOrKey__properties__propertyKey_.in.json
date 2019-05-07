@@ -1,0 +1,13 @@
+{
+    "type": "object",
+    "properties": {
+        "projectIdOrKey": {
+            "required": true,
+            "type": "string"
+        },
+        "propertyKey": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}

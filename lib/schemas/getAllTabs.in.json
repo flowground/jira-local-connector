@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "projectKey": {
+            "required": false,
+            "type": "string"
+        }
+    }
+}

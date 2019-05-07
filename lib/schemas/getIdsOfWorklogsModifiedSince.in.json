@@ -1,0 +1,11 @@
+{
+    "type": "object",
+    "properties": {
+        "since": {
+            "required": false,
+            "type": "integer",
+            "format": "int64",
+            "default": 0
+        }
+    }
+}

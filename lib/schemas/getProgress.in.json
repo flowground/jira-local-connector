@@ -1,0 +1,10 @@
+{
+    "type": "object",
+    "properties": {
+        "requestId": {
+            "required": true,
+            "type": "integer",
+            "format": "int64"
+        }
+    }
+}

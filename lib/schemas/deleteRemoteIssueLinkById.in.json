@@ -1,0 +1,13 @@
+{
+    "type": "object",
+    "properties": {
+        "linkId": {
+            "required": true,
+            "type": "string"
+        },
+        "issueIdOrKey": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}

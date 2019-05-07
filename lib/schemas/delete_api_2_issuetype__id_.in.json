@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "alternativeIssueTypeId": {
+            "required": false,
+            "type": "string"
+        }
+    }
+}

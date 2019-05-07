@@ -1,0 +1,21 @@
+{
+    "type": "object",
+    "properties": {
+        "includeReservedKeys": {
+            "required": false,
+            "type": "boolean"
+        },
+        "key": {
+            "required": false,
+            "type": "string"
+        },
+        "workflowName": {
+            "required": false,
+            "type": "string"
+        },
+        "workflowMode": {
+            "required": false,
+            "type": "string"
+        }
+    }
+}

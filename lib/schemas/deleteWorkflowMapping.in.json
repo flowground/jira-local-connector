@@ -1,0 +1,13 @@
+{
+    "type": "object",
+    "properties": {
+        "workflowName": {
+            "required": false,
+            "type": "string"
+        },
+        "updateDraftIfNeeded": {
+            "required": false,
+            "type": "boolean"
+        }
+    }
+}
